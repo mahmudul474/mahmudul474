@@ -1,4 +1,4 @@
-![logo](https://github.com/CoddingWithMahmudul/CoddingWithMahmudul/blob/main/mah.png](https://github.com/mahmudul474/mahmudul474/blob/main/mah.png))
+![logo](https://github.com/mahmudul474/mahmudul474/blob/main/mah.png)
 
 <h1 align="center">Hey 👋, I'm Mahmudul</h1>
 <h3 align="center">A passionate MERN Stack webdeveloper from Bangladesh</h3>
